@@ -57,6 +57,8 @@ PathFinder is a high-performance, polished mobile application built with **React
    - For **Android**: `npm run android`
    - For **iOS**: `npm run ios`
    - General Start: `npx expo start`
+  
+   - !!! Please have in mind that you need at least EXPO SDK 54.0 version to test the app. Recommended SDK 54.2 version. !!!
 
 ---
 
@@ -120,9 +122,6 @@ pathfinder/
 └── assets/            # Static images and icons
 ```
 
-## 📜 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 *Built with ❤️ for the INTERTEC Technical Assessment.*
